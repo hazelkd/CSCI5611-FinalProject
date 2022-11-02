@@ -1,5 +1,5 @@
 # CSCI5611-FinalProject
-This project has a lot of details, therefore I will leave most of the details to the project write up.
+This project has a lot of details, therefore I will leave most of the details to in the final project writeup included in this repository.
 I worked in a team over the course of a month to work on this project. We chose the topic of our project,
 based on what we had learned in class over the semester. Our final project was to produce a short story
 that we illustrated in a video. The results are included in the link below.
